@@ -1,0 +1,9 @@
+
+header{
+    background-image: url(../img/mainBg.jpg);
+    background-size: cover;
+    height: 70vh;
+}
+img{
+    height: 200px;
+}
